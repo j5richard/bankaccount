@@ -17,7 +17,7 @@ public class Customer {
         return name;
     }
 
-    public int getID(){
+    public int getCustomerID(){
         return customerID;
     }
 
